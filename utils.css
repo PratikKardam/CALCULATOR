@@ -1,0 +1,11 @@
+.center{
+    text-align: center;
+}
+
+.mx_auto{
+    margin: auto;
+}
+.m_w{
+    display: flex;
+    flex-direction: column
+};
